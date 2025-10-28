@@ -8,4 +8,6 @@ Fiz uma alteração dentro do ficheiro.
 Este exercicío está englobado no âmbito da ficha 1 de Git.
 
 
-Alterações feitas na branch NovaFeature.
+Alterações feitas na branch NovaFeature
+
+Alteração no Branch Master -ficha3.
