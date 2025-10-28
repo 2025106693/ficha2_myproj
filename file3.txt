@@ -1,1 +1,9 @@
 Este é um exemplo de ficheiro de texto file3.
+
+
+
+
+
+
+Adicionei algumas linhas ao file3.txt, como pedido no exercicio.
+Este commit tem o objetivo de atualizar o file3.txt.
